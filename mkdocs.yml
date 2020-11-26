@@ -9,7 +9,7 @@ theme:
     features:
        - navigation.expand
 
-repo_url: https://github.com/NVIDIA-AI-IOT/jetbot
+repo_url: https://github.com/greennote-inc/jetbot
 
 plugins:
   - search
@@ -35,7 +35,6 @@ nav:
 
   - Home: index.md
   - Getting Started: getting_started.md
-  - Bill of Materials: bill_of_materials.md
   - Hardware Setup: hardware_setup.md
   - Software Setup:
       - Using SD Card Image: software_setup/sd_card.md
@@ -47,8 +46,6 @@ nav:
       - Road Following: examples/road_following.md
       - Object Following: examples/object_following.md
   - Reference:
-      - Third Party Kits: third_party_kits.md
-      - 3D Printing: 3d_printing.md
       - Contributing: CONTRIBUTING.md
       - Changes: CHANGELOG.md
       - Wi-Fi setup: software_setup/wifi_setup.md
