@@ -34,20 +34,14 @@ markdown_extensions:
 nav:
 
   - Home: index.md
-  - ALGYAN JetBot: algyan/Home.md
-  - Hardware Setup: Hardware-Setup.md
-  - Software Setup: Software-Setup
-  - Examples:
-      - Basic Motion: examples/basic_motion.md
-      - Teleoperation: examples/teleoperation.md
-      - Collision Avoidance: examples/collision_avoidance.md
-      - Road Following: examples/road_following.md
-      - Object Following: examples/object_following.md
-  - Reference:
-      - Contributing: CONTRIBUTING.md
-      - Changes: CHANGELOG.md
-      - Wi-Fi setup: software_setup/wifi_setup.md
-      - Docker Tips: reference/docker_tips.md
+  - ALGYAN JetBot:
+      - Home: algyan/Home.md
+      - Hardware Setup: algyan/Hardware-Setup.md
+      - Software Setup: algyan/Software-Setup
+  - Greennote AI自動運転カー学習キット:
+      - Home: Home.md
+      - Hardware Setup: Hardware-Setup.md
+      - Software Setup: Software-Setup
 
 extra_css:
   - css/version-select.css
