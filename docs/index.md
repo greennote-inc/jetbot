@@ -1,79 +1,34 @@
-# JetBot
+# AI自動運転カー学習キット
 
-<!--[<img src="https://img.shields.io/discord/553852754058280961.svg">](https://discord.gg/Ady6NtF) -->
+<img src="https://github.com/greennote-inc/algyanjetbot/wiki/images/algyan-jetbot_1600x1200.jpg" height="256">
 
-<img src="images/jetbot_800x630.png" style="height:256px">
+## だれにでも、なんどでも。
 
-<div style="text-align: left;">
-    <a href="https://github.com/NVIDIA-AI-IOT/jetbot" class="md-button">Go to GitHub</a>
-    <a href="getting_started.html" class="md-button md-button--primary">Get Started</a>
-</div>
+グリーンノートが開発した教育用AI自動運転カー学習キットです。NVIDIA JetBotをベースとし、日本および教育向けのカスタマイズが施されています。
 
-JetBot is an open-source robot based on NVIDIA Jetson Nano.  You'll like
-it because...
+* **組み立てが簡単** - モーターの組み付けを除き、一切ネジ止めの必要がありません。
+* **入手が容易** - 学習用キットとして市販されています。
+* **教材として使いやすい** - 参加者が概ね同じ時間で準備できるため、実習時間の管理が容易です。
 
+既に日本国内の複数の教育機関で教材として採用され、高い教育効果を実証しています。
 
-## It's Affordable
+## Ease to study, repeatedly
 
-<div style="display: inline-block">
-    
-<img src="https://nvidia.box.com/shared/static/rdwg38i6wqmw1ikfpcoia8a26nlneuih.gif" style="max-width:256px;" align="right">
-    
-JetBot costs less than $250 in parts, <i>including</i> Jetson Nano. The DIY kit includes a bill of materials
-which you must purchase and a 3D printed chassis that you can print, or order.  If you're looking to get
-up and running as quick as possible, there are also many <a href="third_party_kits.html">third party kits</a> available
-that come pre-bundled.
+JetBot derivatives customized for Japanese students and engineers who does NOT have mechanical engineering background  by Greennote Inc.
 
+* **Super eesy to assemble** - No nipper. No screw drivers. No 3D Printer.
+* **Easy to purchase** - In Japan, Educational institutes can purchase their own procedure.
+* **Time contorol** - Every attendants can assemble it almost same time, so course go on time.
 
-</div>
+## グリーンノートAI自動運転カー学習キット
 
-## It's Educational
+より一般向けにカスタマイズされたキットを2020年末ごろ発売予定です。
 
-<div style="display: inline-block">
+Greennote will release their own kit for lower leveled attendants than ALGYAN JetBot.
 
-<img src="https://nvidia.box.com/shared/static/w88yo1c4bbzya2jxu11ncakt8kvqskpv.gif" style="max-width:256px;" align="left">
+## ALGYAN JetBot
 
-JetBot includes a set of <a href="https://jupyter.org/">Jupyter notebooks</a> which cover basic robotics concepts like programatic motor control, to more advanced topics like training a custom AI for avoiding collisions.  What you'll learn isn't limited to JetBot.  You'll learn concepts related to neural network data collection and training that extend as far as your imagination.
+本キットはIoT ALGYANの協力により開発され、ALGYAN JetBotとして市販されています。
+始めるには[ALGYAN JetBot Wiki](https://github.com/greennote-inc/algyanjetbot/wiki)をクリックしてください。
 
-</div>
-
-## It's Easy to Setup
-
-<div style="display: inline-block">
-
-<img src="https://nvidia.box.com/shared/static/4kpi7p75z7evukuda83ymnyh2vwyjw5w.gif" style="max-width:256px;" align="right">
-
-JetBot is programmed from your web browser.  Just connect your JetBot to Wifi and launch the JetBot <a href="software_setup/docker.html">Docker container</a>.  This enables JetBot's web programming environment, which is available even after the JetBot reboots.  Once your JetBot boots, just type it's IP address into your web browser and start programming.  
-
-</div>
-
-## It's Fun!
-
-<div style="display: inline-block">
-
-<img src="https://nvidia.box.com/shared/static/rq3a3dkfaqw8zrjxd67csil83hllpuc7.gif" style="max-width:256px;" align="left">
-
-We built JetBot to make exploring ideas related to robotics as fun as possible.  In effect, it's a portable, battery powered
-AI computer with a camera that's super easy to program.  This makes it the perfect platform for trying new ideas
-related to AI, image processing and robotics.  Our experiments have led us to new projects like <a href="https://github.com/NVIDIA-AI-IOT/jetracer">JetRacer</a>, and we're excited to see where your experiments take you.
-
-</div>
-
-## Get Started
-
-
-To get started with JetBot, follow the [Getting Started](getting_started.md) instructions.  If you run into any issues along the way, please [let us know](https://github.com/NVIDIA-AI-IOT/jetbot/issues)!
-
-<div style="text-align: right;">
-    <a href="https://github.com/NVIDIA-AI-IOT/jetbot" class="md-button">Go to GitHub</a>
-    <a href="getting_started.html" class="md-button md-button--primary">Get Started</a>
-</div>
-
-
-## Get involved
-
-We really appreciate any feedback related to JetBot, and also just enjoy seeing what you're working on!  There is a growing community of Jetson Nano and JetBot users.  It's easy to get involved involved...
-
-<!--* Join the [chat server](https://discord.gg/Ady6NtF)-->
-* Ask a question or report a bug by [creating an issue](https://github.com/NVIDIA-AI-IOT/jetbot/issues)
-* Share your project or ask a question on the [Jetson Developer Forums](https://devtalk.nvidia.com/default/board/139/jetson-embedded-systems/)
+This kit is developed with conribution of IoT ALGYAN, one of the largest engeneer community, and derivered as ALGYAN JetBot. Please read [ALGYAN JetBot Wiki](https://github.com/greennote-inc/algyanjetbot/wiki). I'm sorry that all contents are in Japanese.

@@ -34,11 +34,9 @@ markdown_extensions:
 nav:
 
   - Home: index.md
-  - Getting Started: getting_started.md
-  - Hardware Setup: hardware_setup.md
-  - Software Setup:
-      - Using SD Card Image: software_setup/sd_card.md
-      - Using Docker Container: software_setup/docker.md
+  - ALGYAN JetBot: algyan/Home.md
+  - Hardware Setup: Hardware-Setup.md
+  - Software Setup: Software-Setup
   - Examples:
       - Basic Motion: examples/basic_motion.md
       - Teleoperation: examples/teleoperation.md

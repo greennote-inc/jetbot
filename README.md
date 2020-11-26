@@ -24,13 +24,11 @@ JetBot derivatives customized for Japanese students and engineers who does NOT h
 
 より一般向けにカスタマイズされたキットを2020年末ごろ発売予定です。
 
+Greennote will release their own kit for lower leveled attendants than ALGYAN JetBot.
+
 ## ALGYAN JetBot
 
 本キットはIoT ALGYANの協力により開発され、ALGYAN JetBotとして市販されています。
 始めるには[ALGYAN JetBot Wiki](https://github.com/greennote-inc/algyanjetbot/wiki)をクリックしてください。
 
 This kit is developed with conribution of IoT ALGYAN, one of the largest engeneer community, and derivered as ALGYAN JetBot. Please read [ALGYAN JetBot Wiki](https://github.com/greennote-inc/algyanjetbot/wiki). I'm sorry that all contents are in Japanese.
-
-
-
-Greennote will release their own kit for lower leveled attendants than ALGYAN JetBot.
