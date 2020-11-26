@@ -5,7 +5,7 @@ theme:
     favicon: images/favicon.png
     font: Incosolata
     palette:
-        scheme: nvgreen 
+        scheme: nvgreen
     features:
        - navigation.expand
 
@@ -40,7 +40,7 @@ nav:
   - Software Setup:
       - Using SD Card Image: software_setup/sd_card.md
       - Using Docker Container: software_setup/docker.md
-  - Examples: 
+  - Examples:
       - Basic Motion: examples/basic_motion.md
       - Teleoperation: examples/teleoperation.md
       - Collision Avoidance: examples/collision_avoidance.md
@@ -59,8 +59,3 @@ extra_css:
   - css/colors.css
 extra_javascript:
   - js/version-select.js
-
-google_analytics:
-  - UA-135919510-2
-  - auto
-
