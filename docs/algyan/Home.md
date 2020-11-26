@@ -1,7 +1,7 @@
 # ALGYAN Jetbot AI学習キット Wikiへようこそ
 
 ALGYAN Jetbot AI学習キット（通称 ALGYAN Jetbot）の情報を集めたWikiページです。
-何か問題がありましたらお知らせください。 [（Issueに移動）](../issues)!
+何か問題がありましたらお知らせください。 [（Issueに移動）](https://github.com/greennote-inc/jetbot/issues)!
 
 ## 留意事項
 
@@ -22,15 +22,15 @@ macOS CatalinaからUSBを利用したEhternetの仕様が変更になり、NVID
 下記の手順に従ってALGYANオリジナルJetbotを準備してください。
 
 1. ALGYANオリジナルJetbot Kitを [入手する](https://jetbot.algyan.biz)
-2. キットの[組み立て](hardware-setup)
-3. ソフトウェアの[セットアップ](software-setup)
-4. [事例集](examples)を試してみる
+2. キットの[組み立て](Hardware-Setup.md)
+3. ソフトウェアの[セットアップ](Software-Setup.md)
+4. [事例集](Examples.md)を試してみる
 
 ### ALGYAN Jetbotとの関わり方
 
 質問、示唆などは
 
-* [issue](../../issues)を起票する
+* [issue](https://github.com/greennote-inc/jetbot/issues)を起票する
 
 ### お役立ち
 
