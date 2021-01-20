@@ -20,6 +20,12 @@ JetBot derivatives customized for Japanese students and engineers who does NOT h
 * **Easy to purchase** - In Japan, Educational institutes can purchase their own procedure.
 * **Time contorol** - Every attendants can assemble it almost same time, so course go on time.
 
+## 組み立て方、使い方など
+
+* [Greennote AI自動運転カー学習キットWeb](https://aicar.i-gnote.com)に詳細情報が集められています。
+  * グリーンノートAI自動運転カー学習キットのコンテンツは準備中です。
+  * **ALGYAN JetBot**の情報は[ここにあります。](https://aicar.i-gnote.com/algyan/Home.html)
+  
 ## グリーンノートAI自動運転カー学習キット
 
 より一般向けにカスタマイズされたキットを2020年末ごろ発売予定です。
