@@ -1,5 +1,5 @@
---- /usr/local/lib/python3.6/dist-packages/Adafruit_MotorHAT-1.4.0-py3.6.egg/Adafruit_MotorHAT/Adafruit_MotorHAT_Motors.py	2019-03-25 07:48:51.839663181 +0900
-+++ Adafruit_MotorHAT_Motors.py	2019-07-17 14:14:43.943559672 +0900
+--- Adafruit_MotorHAT_Motors.py	2021-01-19 18:32:37.325853637 -0800
++++ Adafruit_MotorHAT_Motors.py	2021-01-19 18:31:26.492054822 -0800
 @@ -172,13 +172,13 @@ class Adafruit_DCMotor:
          pwm = in1 = in2 = 0
  
@@ -20,3 +20,12 @@
          elif (num == 2):
                   pwm = 2
                   in2 = 3
+@@ -224,7 +224,7 @@ class Adafruit_MotorHAT:
+     INTERLEAVE = 3
+     MICROSTEP = 4
+ 
+-    def __init__(self, addr = 0x60, freq = 1600, i2c=None, i2c_bus=None):
++    def __init__(self, addr = 0x40, freq = 1600, i2c=None, i2c_bus=None):
+         self._frequency = freq
+         self.motors = [ Adafruit_DCMotor(self, m) for m in range(4) ]
+         self.steppers = [ Adafruit_StepperMotor(self, 1), Adafruit_StepperMotor(self, 2) ]
