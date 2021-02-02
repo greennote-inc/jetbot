@@ -1,0 +1,8 @@
+[Unit]
+Description=Greennote JetBot button shutdown service
+[Service]
+Type=simple
+ExecStart=/bin/sh -c "python3 /home/jetbot/greennote/jetbot/patch/button_shutdown.py"
+Restart=always
+[Install]
+WantedBy=multi-user.target
